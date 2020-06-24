@@ -15,7 +15,7 @@ steps :
 - [ ] Selecting best model
 - [ ] Test and make predictions
 - [ ] Making extension
-- [ ] Loading our model into the extension using dev tools… 
+- [ ] Loading our model into extension
 - [ ] Try and deploy it…
 
 
