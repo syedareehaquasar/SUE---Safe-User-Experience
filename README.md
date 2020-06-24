@@ -28,4 +28,5 @@ steps :
 - https://github.com/arvind-rs/phishing_detector
 - https://github.com/faizann24/phishytics-machine-learning-for-phishing
 - https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+- https://developer.chrome.com/extensions/getstarted
 
