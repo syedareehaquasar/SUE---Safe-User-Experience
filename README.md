@@ -24,3 +24,8 @@ steps :
 [dataset 2](https://www.phishtank.com/)
 [dataset 3](https://www.kaggle.com/akashkr/phishing-website-dataset)
 
+### References:
+https://github.com/arvind-rs/phishing_detector
+https://github.com/faizann24/phishytics-machine-learning-for-phishing
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
