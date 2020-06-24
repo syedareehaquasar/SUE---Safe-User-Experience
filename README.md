@@ -19,3 +19,8 @@ steps :
 - [ ] Try and deploy it…
 
 
+### DATASET COLLECTION
+[dataset 1](https://archive.ics.uci.edu/ml/datasets/phishing+websites)
+[dataset 2](https://www.phishtank.com/)
+[dataset 3](https://www.kaggle.com/akashkr/phishing-website-dataset)
+
