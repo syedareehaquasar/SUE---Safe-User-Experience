@@ -3,7 +3,7 @@
 
 *Tech Stack - Python (ML Model), Javascript, HTML and CSS*
 
-
+![Phishing](./images/image.png)
 
 ## WORK FLOW
 steps :
