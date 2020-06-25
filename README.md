@@ -3,7 +3,7 @@
 
 *Tech Stack - Python (ML Model), Javascript, HTML and CSS*
 
-![Phishing](./images/shutterstock_593626601.jpg)
+![Phishing](./images/readmeimg.jpg)
 
 ## WORK FLOW
 steps :
