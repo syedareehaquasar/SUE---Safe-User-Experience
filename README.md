@@ -5,30 +5,18 @@
 
 ![Phishing](./images/readmeimg.jpg)
 
-## WORK FLOW
-steps :
-- [X] Data extraction / collection 
-- [X] Data manipulation 
-- [X] Data summarization
-- [X] Loading data and dataset
-- [X] Data visualisation 
-- [X] Writing algorithm 
-- [X] Build models
-- [X] Selecting best model
-- [X] Test and make predictions
-- [ ] Making extension
-- [ ] Loading our model into extension
-- [ ] Try and deploy it…
+### Dataset used in project
+[Dataset](https://www.kaggle.com/akashkr/phishing-website-dataset)
 
-
-### DATASET COLLECTION
-[dataset 1](https://archive.ics.uci.edu/ml/datasets/phishing+websites)
-[dataset 2](https://www.phishtank.com/)
-[dataset 3](https://www.kaggle.com/akashkr/phishing-website-dataset)
+### Google Drive Link
+[Data used for colab files](https://drive.google.com/drive/folders/1SD2LyLzxf7nLRNsl6KSS_sY4IdWOa3f8?usp=sharing)
 
 ### References:
-- https://github.com/arvind-rs/phishing_detector
-- https://github.com/faizann24/phishytics-machine-learning-for-phishing
+- https://docs.python.org/3/library/internet.html
+- http://eprints.hud.ac.uk/id/eprint/24330/6/\\MohammadPhishing14July2015.pdf
 - https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-- https://developer.chrome.com/extensions/getstarted
+- https://flask.palletsprojects.com/en/1.1.x/
+- https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0101ENv3+2018/course/
 
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
